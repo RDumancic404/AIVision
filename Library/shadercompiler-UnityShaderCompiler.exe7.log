@@ -1,0 +1,80 @@
+Base path: 'E:/Unity/2019.4.25f1/Editor/Data', plugins path 'E:/Unity/2019.4.25f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Conv2d.cginc(773): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=775 outsize=11445 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=958 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=222 outsize=680 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=759 outsize=711 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=759 outsize=805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3405 outsize=24465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13751 outsize=1099 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13751 outsize=2479 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=2850 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=1489 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=2041 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=4086 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=1843 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=3480 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=3372 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=3375 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=1549 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=5479 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=5217 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=3309 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=1680 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=80473 outsize=4831 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4703 outsize=3574 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=75201 outsize=7888 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13363 outsize=11359 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=958 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=629 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=701 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=787 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=886 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=1547 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=1329 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=1288 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=1843 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=1397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10470 outsize=1384 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=934 outsize=282 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: shutdown
+
+Quitting shader compiler process
